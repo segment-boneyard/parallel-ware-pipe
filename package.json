@@ -1,8 +1,8 @@
 {
-  "name": "parellel-ware-pipe",
+  "name": "parallel-ware-pipe",
   "version": "0.0.1",
   "repository": "git://github.com/segmentio/parallel-ware-pipe.git",
-  "description": "Parallel-ware plugin for waiting for and piping data",
+  "description": "Make parallel-ware plugins that wait for data to becomes available ",
   "keywords": [
     "parallel-ware",
     "pipe"

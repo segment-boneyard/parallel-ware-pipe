@@ -3,6 +3,10 @@
 
   A plugin factory for [parallel-ware](https://github.com/segmentio/parallel-ware) that waits for data to become available, and then pipes that data to another function.
 
+## Installation
+
+    $ npm install parallel-ware-pipe
+
 ## Example
 
 ```js

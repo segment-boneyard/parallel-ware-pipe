@@ -1,0 +1,10 @@
+{
+  "name": "parellel-ware-pipe",
+  "version": "0.0.1",
+  "repository": "git://github.com/segmentio/parallel-ware-pipe.git",
+  "description": "Parallel-ware plugin for waiting for and piping data",
+  "keywords": [
+    "parallel-ware",
+    "pipe"
+  ]
+}
